@@ -1,0 +1,5 @@
+-This is an individual project
+-This is a 2D platforming game, escape from the monster and reach the destination!!
+-Tested on the foxfire browser
+-Developed under the programming language of Javascript,CSS,PHP and HTML
+-Drag game.html to Firefox browser to start the game
